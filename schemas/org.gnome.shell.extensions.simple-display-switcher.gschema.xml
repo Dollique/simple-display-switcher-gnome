@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.simple-display-switcher" path="/org/gnome/shell/extensions/simple-display-switcher/">
+    <key name="use-persistent-apply" type="b">
+      <default>true</default>
+      <summary>Instant Apply (Method 1)</summary>
+    </key>
+    <key name="use-main-display-label" type="b">
+      <default>true</default>
+      <summary>Use "Main Display Only" for the first monitor</summary>
+    </key>
+    <key name="use-display-names" type="b">
+      <default>false</default>
+      <summary>Use hardware names (e.g., HDMI-1) instead of Display numbers</summary>
+    </key>
+  </schema>
+</schemalist>
