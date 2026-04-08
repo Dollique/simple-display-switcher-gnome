@@ -3,7 +3,7 @@
     "description": "Adds 'only use display' options to the display switcher",
     "shell-version": ["45", "46", "47", "48", "49"],
     "settings-schema": "org.gnome.shell.extensions.simple-display-switcher",
-    "url": "https://github.com/dollique/simple-display-switcher",
+    "url": "https://github.com/Dollique/simple-display-switcher-gnome",
     "uuid": "simple-display-switcher@dollique.com",
     "version": 1
 }
