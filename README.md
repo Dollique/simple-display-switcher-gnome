@@ -2,6 +2,10 @@
 
 A GNOME extension that adds "Display xyz Only" options to the existing display switcher functionality (Super+P).
 
+<p align="center">
+  <img src="./simple-display-switcher.png" />
+</p>
+
 ## Dependencies
 
 - GNOME Shell - [switchMonitor.js](https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/main/js/ui/switchMonitor.js)
